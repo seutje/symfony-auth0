@@ -15,9 +15,6 @@ PHP7
 Symfony
 Composer
 
-[//]: # Node.js
-[//]: # Yarn
-
 ```
 
 ### Installing
